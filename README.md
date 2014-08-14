@@ -17,7 +17,7 @@ How To Setup
 
 - " Manage Jenkins" -> "configure global security" -> "Access Control" -> "Global gitlab Auth Settings"
 
-- "gitlab web URL" :  gitlab url
+- "gitlab web URL"  to add your gitlab url 
 
 
 Change Log
