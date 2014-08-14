@@ -20,6 +20,9 @@ How To Setup
 - "gitlab web URL"  to add your gitlab url 
 
 
+![alt text] (https://github.com/RouGang/gitlab-auth-plugin/blob/master/gitlab-auth.jpg)
+
+
 Change Log
 ==========
 
