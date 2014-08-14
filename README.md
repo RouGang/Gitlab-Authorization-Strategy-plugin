@@ -10,10 +10,19 @@ Goal
 This plugin provides authentication for GitLab users
 
 
-Setup
-========
+How To Setup
+============
 
-- choose " Manage Jenkins", "configure global security" -> "Access Control" -> "Global gitlab Auth Settings"
+- Install the gitlab auth plugin
 
-- "gitlab web URL"  
+- " Manage Jenkins" -> "configure global security" -> "Access Control" -> "Global gitlab Auth Settings"
 
+- "gitlab web URL" :  gitlab url
+
+
+Change Log
+==========
+
+Version 1.0.0 (August 14,2014)  
+
+Initial Release
