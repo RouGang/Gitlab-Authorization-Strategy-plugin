@@ -22,6 +22,11 @@ How To Setup
 
 ![alt text] (https://github.com/RouGang/gitlab-auth-plugin/blob/master/gitlab-auth.jpg)
 
+- "Gitlab commiter authorization strategy" to add admin user names
+ 
+   eg: jenkins,jenkins2,jenkins3
+
+![alt text] (https://github.com/RouGang/gitlab-auth-plugin/blob/master/gitlab-auth-strategy.jpg)
 
 Change Log
 ==========
