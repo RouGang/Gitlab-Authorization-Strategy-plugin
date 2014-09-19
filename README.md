@@ -13,7 +13,7 @@ This plugin provides authentication for GitLab users
 How To Setup
 ============
 
-- Install the gitlab auth plugin
+- Install the Gitlab Authorization Strategy plugin
 
 - " Manage Jenkins" -> "configure global security" -> "Access Control" -> "Global gitlab Auth Settings"
 
