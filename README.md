@@ -1,4 +1,4 @@
-gitlab-auth-plugin
+Gitlab-Authorization-Strategy-plugin
 ==================
 
 This plugin provides authentication for GitLab users
@@ -22,9 +22,9 @@ How To Setup
 
 ![alt text] (https://github.com/RouGang/gitlab-auth-plugin/blob/master/gitlab-auth.jpg)
 
-- "Gitlab commiter authorization strategy" to add admin user names
- 
-   eg: jenkins,jenkins2,jenkins3
+- "Gitlab commiter authorization strategy" to add admin user names. eg: jenkins,jenkins2,jenkins3  
+  
+   others will use gitlab repository permissions.
 
 ![alt text] (https://github.com/RouGang/gitlab-auth-plugin/blob/master/gitlab-auth-strategy.jpg)
 
